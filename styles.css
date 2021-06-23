@@ -1,0 +1,66 @@
+body {
+    background: red (58);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: whitesmoke;
+}
+
+h1 {
+    background: greenyellow;
+}
+
+section {
+    background: white;
+    color: gray;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+div {
+
+    background: burlywood;
+    margin: auto;
+    width: 100px;
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+}
+
+li {
+    
+    background : whitesmoke;
+    display: inline-block;
+    margin: 50px;
+
+}
+
+img {
+  float: left;
+  width: 33.33%;
+  padding: 15px
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+footer {
+    background: black;
+    padding: 10px 20px;
+}
