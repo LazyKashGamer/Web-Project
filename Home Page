@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>My page </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html ">Home</a> </li>
+                <li><a href="About Us.html">About Us</a> </li>
+                <li><a href="Contact.html">Contact</a> </li>
+                <li><a href=" Testimony.html">Testimony</a></li>
+                <li><a href="Check Out.html">Check out</a> </li>
+            </ul>
+        </nav>
+
+        <h1> Contact </h1>
+    </header>
+    <section>
+
+        <div> Laptop A </div>
+        <div> Laptop B </div>
+        <div> Laptop C </div>
+
+    </section>
+
+    <section> Prices</section>
+    <footer> Customer Review </footer>
+
+
+</body>
+
+</html>
